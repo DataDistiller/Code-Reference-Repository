@@ -10,3 +10,5 @@ It may be for a quick testing (few records) or to load data for actual modeling/
 Here's a cheat sheet that shows around 15 ways to create a Pandas data frame. Helps me a lot until I get used to it after months and years of practice. 
 
 Sharing it for learners. 
+
+[15 ways to create a pandas dataframe] https://github.com/jchowdhury82/Code-Reference-Repository/blob/main/DataFrames%20-%20Chapter%201%20-%20Initialization%20of%20a%20DataFrame.ipynb
