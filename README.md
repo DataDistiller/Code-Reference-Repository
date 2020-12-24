@@ -11,4 +11,4 @@ Here's a cheat sheet that shows around 15 ways to create a Pandas data frame. He
 
 Sharing it for learners. 
 
-[15 ways to create a pandas dataframe] (https://github.com/jchowdhury82/Code-Reference-Repository/blob/main/DataFrames%20-%20Chapter%201%20-%20Initialization%20of%20a%20DataFrame.ipynb)
+[15 ways to create a pandas dataframe](https://github.com/jchowdhury82/Code-Reference-Repository/blob/main/DataFrames%20-%20Chapter%201%20-%20Initialization%20of%20a%20DataFrame.ipynb)
