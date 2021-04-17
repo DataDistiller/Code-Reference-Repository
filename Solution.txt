@@ -1,0 +1,107 @@
+Command Line:
+
+{ cat corpus.txt | awk '{for (i=1; i<NF; i++) print tolower($i), tolower($(i+1))}' | sort | uniq -c | sort -r | head -50 ; cat corpus.txt | awk '{for (i=1; i<NF; i++) print tolower($i)}' | sort | uniq -c | sort -r | head -50 ; }
+
+
+Result:
+
+      9 zro is
+      9 zro are
+      9 zno or
+      9 zno is
+      9 zn deficiency
+      9 zero the
+      9 xrd pattern
+      9 would require
+      9 would allow
+      9 work with
+      9 work in
+      9 wm tof
+      9 with three
+      9 with positive
+      9 with of
+      9 with further
+      9 widths of
+      9 while at
+      9 which makes
+      9 which describes
+      9 were the
+      9 were placed
+      9 well suited
+      9 we calculated
+      9 way that
+      9 wave heights
+      9 water wave
+      9 water the
+      9 was formed
+      9 was confirmed
+      9 walls and
+      9 v r
+      9 volumes of
+      9 vibrations of
+      9 very useful
+      9 very little
+      9 very good
+      9 vec vec
+      9 vary the
+      9 utilization of
+      9 using standard
+      9 using different
+      9 used with
+      9 used by
+      9 under these
+      9 typically in
+      9 two branches
+      9 turbine performance
+      9 turbine model
+      9 t rm
+      9 zt
+      9 withstand
+      9 winds
+      9 weeks
+      9 wear
+      9 watches
+      9 washing
+      9 washed
+      9 visualization
+      9 viewed
+      9 vessels
+      9 validity
+      9 unwanted
+      9 underlayer
+      9 unaffected
+      9 ultrasonic
+      9 ultrahigh
+      9 twisted
+      9 tweezers
+      9 tubing
+      9 triggering
+      9 transducer
+      9 trade
+      9 tracer
+      9 thz
+      9 thousands
+      9 thought
+      9 thermo
+      9 therapy
+      9 theories
+      9 themselves
+      9 tescrf
+      9 tco
+      9 tape
+      9 sva
+      9 surprising
+      9 surfactants
+      9 suppress
+      9 summer
+      9 suffers
+      9 sudden
+      9 substances
+      9 strictly
+      9 strengths
+      9 streamers
+      9 stopped
+      9 station
+      9 standards
+      9 ssc
+      9 sorbent
